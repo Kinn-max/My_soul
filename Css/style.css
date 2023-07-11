@@ -950,7 +950,7 @@ footer{
     align-items: center;
     z-index: 10000;
     position: fixed;
-    background-image: url(Img/sing_in.png);
+    background-image: url(/Img/sing_in.png);
 }
 .form-container {
     width: 80%;
@@ -1153,7 +1153,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(Img/loader_backgroud.jpg);
+    background-image: url(/Img/loader_backgroud.jpg);
     background-color: rgb(0 0 0 / 0.5);
     background-position: center;
 
@@ -1243,7 +1243,7 @@ footer{
         display: block;
     }
     .loaDDing{
-        background-image: url(Img/moblie_loader.png);
+        background-image: url(/Img/moblie_loader.png);
         background-position: center;
 
     }
