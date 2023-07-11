@@ -950,7 +950,7 @@ footer{
     align-items: center;
     z-index: 10000;
     position: fixed;
-    background-image: url(/Img/sing_in.png);
+    background-image: url(Img/sing_in.png);
 }
 .form-container {
     width: 80%;
